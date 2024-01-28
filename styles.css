@@ -1,0 +1,17 @@
+body {
+    background-color: lightcoral;
+    font-family: 'Brush Script MT', cursive
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.links .link {
+    font-weight: bold;
+    font-size: 50px;
+}
