@@ -1,9 +1,16 @@
+/* * {
+    outline: 2px solid red;
+} */
+
 body {
-    background-color: lightcoral;
-    font-family: 'Brush Script MT', cursive
+    background-color: lightblue;
+    font-family: 'Helvetica', sans-serif
 }
 
 h1 {
+    margin: 40px;
+    border: 10px solid #3d5a80;
+    padding: 10px;
     text-align: center;
 }
 
@@ -13,5 +20,5 @@ div {
 
 .links .link {
     font-weight: bold;
-    font-size: 50px;
+    font-size: 24px;
 }
